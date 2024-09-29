@@ -1,0 +1,13 @@
+EmployeeID,Name,Region,SaleDate,SaleAmount
+1,Alice Johnson,North,2023-09-01,1000
+2,Bob Smith,East,2023-09-03,2500
+3,Charlie Davis,South,2023-09-07,3000
+4,Diana Evans,West,2023-09-10,1500
+5,Evan Thomas,North,2023-09-12,2300
+6,Fiona Green,East,2023-09-15,1200
+7,George Baker,South,2023-09-17,2900
+8,Hannah White,West,2023-09-20,3100
+9,Ian Scott,North,2023-09-22,2800
+10,Julia Adams,East,2023-09-25,1700
+7,George Baker,South,2023-09-17,2900
+12,South,2023-09-07,3000
