@@ -50,9 +50,9 @@
 
 **Notes:**
 
-- **License Section:** Updated to a simple statement without the link to the `LICENSE` file. Ensure that you have a `LICENSE` file in your repository containing the full MIT License text.
+- **License:** Updated to a simple statement without the link to the `LICENSE` file. Ensure that you have a `LICENSE` file in your repository containing the full MIT License text.
 
-- **Contact Section:** Reformatted to present the contact information clearly. Replace the placeholder email address with your actual email if necessary.
+- **Contact:** Reformatted to present the contact information clearly. Replace the placeholder email address with your actual email if necessary.
 
 - **Formatting:** Maintained Markdown formatting for better readability on GitHub.
 
